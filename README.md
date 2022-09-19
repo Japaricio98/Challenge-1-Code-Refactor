@@ -32,7 +32,9 @@ GIVEN a webpage meets accessibility standards
 
 The webpage that was asked to be modified can be found at ```./Develop/index.html``` with an accompanying CSS file at ```./Develop/assets/css/style.css```.
 
-A screenshot of the finished product appears below. 
+The finished product can be found here: [https://japaricio98.github.io/Challenge-1-Code-Refactor/Develop/index.html](https://japaricio98.github.io/Challenge-1-Code-Refactor/Develop/index.html)
+
+Screenshots of the finished product appear below. 
 
 ![index-header-hero](Develop/assets/images/index-header-hero.png)
 ![index-content-aside](Develop/assets/images/index-content-aside.png)
