@@ -1,13 +1,16 @@
+/* general page attributes */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* general body style */
 body {
     background-color: #d9dcd6;
 }
 
+/* header styles */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,15 +44,18 @@ body {
     margin-left: 25px;
 }
 
+/* link style */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* paragraph style */
 p {
     font-size: 16px;
 }
 
+/* style for hero banner */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +65,7 @@ p {
     background-position: center;
 }
 
+/* set wrapping values */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +76,14 @@ p {
     margin-left: 25px;
 }
 
+/* styling of content section */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* sidebar attributes */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -102,6 +111,7 @@ p {
     max-width: 150px;
 }
 
+/* Styling of specific section attributes */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -120,6 +130,7 @@ p {
     font-size: 36px;
 }
 
+/* styling of the footer */
 .footer {
     padding: 30px;
     clear: both;
