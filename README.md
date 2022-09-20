@@ -44,3 +44,13 @@ Screenshots of the finished product appear below.
 ![index-header-hero](Develop/assets/images/index-header-hero.png)
 ![index-content-aside](Develop/assets/images/index-content-aside.png)
 ![index-content-footer](Develop/assets/images/index-content-footer.png)
+
+
+## Creidts
+
+Juan Aparicio
+
+
+## License 
+
+Please refer to the LICENSE in the repo.
