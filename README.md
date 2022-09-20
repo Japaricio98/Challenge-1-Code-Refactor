@@ -28,6 +28,11 @@ GIVEN a webpage meets accessibility standards
   THEN I find a concise, descriptive title
 
 
+## Installation
+
+N/A
+
+
 ## Deliverables
 
 The webpage that was asked to be modified can be found at ```./Develop/index.html``` with an accompanying CSS file at ```./Develop/assets/css/style.css```.
