@@ -46,7 +46,7 @@ Screenshots of the finished product appear below.
 ![index-content-footer](Develop/assets/images/index-content-footer.png)
 
 
-## Creidts
+## Credits
 
 Juan Aparicio
 
